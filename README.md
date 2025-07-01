@@ -33,6 +33,9 @@ The project follows an end-to-end workflow, from raw data ingestion to final mod
 
 **Pipeline Overview:**
 
+<img width="877" alt="image" src="https://github.com/user-attachments/assets/25592b15-f8b6-4f8f-859b-703d2d18f0b8" />
+
+
 1. **Data Collection & Preparation**
    - Downloaded and organized the original AI Hub dataset.
    - Automated segmentation of long audio files into short, utterance-level clips using silence detection algorithms.
@@ -63,7 +66,7 @@ The project follows an end-to-end workflow, from raw data ingestion to final mod
    - Compiled results and insights into a clear, transparent report.
    - All code, logs, and visualizations are available in this repository for reproducibility.
 
-> **Minhyuk Son** was responsible for end-to-end pipeline automation, feature engineering, and calibration analysis.
+> **Minhyeok Son** was responsible for end-to-end pipeline automation, feature engineering, and calibration analysis.
 
 ## 🛠️ Models & Methods
 
